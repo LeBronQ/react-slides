@@ -1,0 +1,10 @@
+img{
+  border: none;
+  width: 100%;
+  height: 50vw;
+  transition: opacity 1s;
+}
+.imgs img{
+  position: absolute;
+  top: 0;
+}

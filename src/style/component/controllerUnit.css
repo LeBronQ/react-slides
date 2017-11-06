@@ -1,0 +1,18 @@
+.btns{
+  display: flex;
+  position: absolute;
+  bottom: 1rem;
+  z-index: 9;
+  left: 50%;
+  margin-left: -3rem;
+}
+.btns span{
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  transition: background .5s;
+  margin: 0.5rem;
+}
